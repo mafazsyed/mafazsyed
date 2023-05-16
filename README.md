@@ -2,11 +2,10 @@
 
 <h1 align="center">Hi 👋, I'm Mafaz Syed</h1>
 <h3 align="center">A Passionate Mechanical Engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/c8/a6/2c/c8a62c3f14fdf027de13e1755ddd0ec6.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mafazsyed&label=Profile%20views&color=0e75b6&style=flat" alt="mafazsyed" /> </p>
 
-- 📫 How to reach me **mafazsyed10@outlook.com**
+- 📫 Reach me at **mafazsyed10@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
