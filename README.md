@@ -1,5 +1,3 @@
-![MasterHead](https://thumbs.dreamstime.com/b/technology-neon-background-mechanical-engineering-drawings-technical-drawing-vector-illustration-scheme-locksmith-plan-187056375.jpg)
-
 <h1 align="center">Hi 👋, I'm Mafaz Syed</h1>
 <h3 align="center">A Passionate Mechanical Engineer</h3>
 
