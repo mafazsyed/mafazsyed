@@ -1,7 +1,3 @@
-<h1 align="center">Hi 👋, I'm Mafaz Syed</h1>
-<h3 align="center">A Passionate Mechanical Engineer</h3>
-
-<h3 align="center"">Visit my portfolio: <a href="https://www.mafazsyed.com" target="_blank">mafazsyed.com</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mafazsyed&label=Profile%20views&color=0e75b6&style=flat" alt="mafazsyed" /> </p>
 
