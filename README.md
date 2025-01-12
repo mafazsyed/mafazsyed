@@ -14,7 +14,6 @@
 ---
 
 #### Development and Automation Tools:
-![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![SCADA](https://img.shields.io/badge/SCADA-00A5FF?style=for-the-badge&logo=scada&logoColor=white)
@@ -44,6 +43,7 @@
 #### Robotics and Simulation:
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Gazebo](https://img.shields.io/badge/Gazebo-4A4A4A?style=for-the-badge&logo=gazebo&logoColor=white)
+![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 
 ---
 
