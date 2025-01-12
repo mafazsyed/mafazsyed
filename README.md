@@ -17,7 +17,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![SCADA](https://img.shields.io/badge/SCADA-00A5FF?style=for-the-badge&logo=scada&logoColor=white)
 ![Ignition SCADA](https://img.shields.io/badge/Ignition%20SCADA-FF5733?style=for-the-badge&logo=automation&logoColor=white)
 ![Factory I/O](https://img.shields.io/badge/Factory%20I/O-4CAF50?style=for-the-badge&logo=industrialautomation&logoColor=white)
 ![Connected Components Workbench](https://img.shields.io/badge/CCW-001E4E?style=for-the-badge&logo=industrial&logoColor=white)
