@@ -15,6 +15,7 @@
 
 #### Development and Automation Tools:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![SCADA](https://img.shields.io/badge/SCADA-00A5FF?style=for-the-badge&logo=scada&logoColor=white)
 ![Ignition SCADA](https://img.shields.io/badge/Ignition%20SCADA-FF5733?style=for-the-badge&logo=automation&logoColor=white)
@@ -43,6 +44,8 @@
 #### Robotics and Simulation:
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Gazebo](https://img.shields.io/badge/Gazebo-4A4A4A?style=for-the-badge&logo=gazebo&logoColor=white)
+![Rviz](https://img.shields.io/badge/Rviz-4A90E2?style=for-the-badge&logo=ros&logoColor=white)
+![MoveIt!](https://img.shields.io/badge/MoveIt%21-FF69B4?style=for-the-badge&logo=ros&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 
 ---
@@ -62,6 +65,7 @@
 ![ANSYS](https://img.shields.io/badge/ANSYS-000000?style=for-the-badge&logo=ansys&logoColor=white)
 ![Abaqus](https://img.shields.io/badge/Abaqus-005C96?style=for-the-badge&logo=abaqus&logoColor=white)
 ![Proteus](https://img.shields.io/badge/Proteus-1F7C83?style=for-the-badge&logo=simulation&logoColor=white)
+![Fritzing](https://img.shields.io/badge/Fritzing-B22222?style=for-the-badge&logo=fritzing&logoColor=white)
 ![Altium Designer](https://img.shields.io/badge/Altium%20Designer-292E33?style=for-the-badge&logo=altiumdesigner&logoColor=white)
 
 ---
@@ -86,4 +90,6 @@
 #### Miscellaneous:
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
