@@ -9,7 +9,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Ladder Logic](https://img.shields.io/badge/Ladder%20Logic-FF7F50?style=for-the-badge&logo=ladderlogic&logoColor=white)
-![HMI Programming](https://img.shields.io/badge/HMI%20Programming-8A2BE2?style=for-the-badge&logo=automation&logoColor=white)
 
 ---
 
@@ -17,11 +16,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Ignition SCADA](https://img.shields.io/badge/Ignition%20SCADA-FF5733?style=for-the-badge&logo=automation&logoColor=white)
-![Factory I/O](https://img.shields.io/badge/Factory%20I/O-4CAF50?style=for-the-badge&logo=industrialautomation&logoColor=white)
-![Connected Components Workbench](https://img.shields.io/badge/CCW-001E4E?style=for-the-badge&logo=industrial&logoColor=white)
-![TIA Portal Siemens](https://img.shields.io/badge/TIA%20Portal-0080FF?style=for-the-badge&logo=siemens&logoColor=white)
-![Allen Bradley](https://img.shields.io/badge/Allen%20Bradley-007DC3?style=for-the-badge&logo=rockwellautomation&logoColor=white)
 
 ---
 
@@ -55,6 +49,7 @@
 ![Potentiometers](https://img.shields.io/badge/Potentiometers-4682B4?style=for-the-badge&logo=variable&logoColor=white)
 ![Ultrasonic Sensors](https://img.shields.io/badge/Ultrasonic%20Sensors-4B0082?style=for-the-badge&logo=sensor&logoColor=white)
 ![Infrared Sensors](https://img.shields.io/badge/Infrared%20Sensors-800000?style=for-the-badge&logo=infrared&logoColor=white)
+![Phototransistors](https://img.shields.io/badge/Phototransistor-708090?style=for-the-badge&logo=light&logoColor=white)
 
 ---
 
@@ -63,7 +58,6 @@
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=solidworks&logoColor=white)
 ![ANSYS](https://img.shields.io/badge/ANSYS-000000?style=for-the-badge&logo=ansys&logoColor=white)
 ![Abaqus](https://img.shields.io/badge/Abaqus-005C96?style=for-the-badge&logo=abaqus&logoColor=white)
-![Proteus](https://img.shields.io/badge/Proteus-1F7C83?style=for-the-badge&logo=simulation&logoColor=white)
 ![Fritzing](https://img.shields.io/badge/Fritzing-B22222?style=for-the-badge&logo=fritzing&logoColor=white)
 ![Altium Designer](https://img.shields.io/badge/Altium%20Designer-292E33?style=for-the-badge&logo=altiumdesigner&logoColor=white)
 
@@ -76,6 +70,8 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PySide](https://img.shields.io/badge/PySide-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 
 ---
 
