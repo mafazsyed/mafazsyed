@@ -6,7 +6,7 @@
 #### Programming Languages:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](<img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="100" alt="Python animated">)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Ladder Logic](https://img.shields.io/badge/Ladder%20Logic-FF7F50?style=for-the-badge&logo=ladderlogic&logoColor=white)
 
